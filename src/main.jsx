@@ -5,7 +5,7 @@ import App from "./App";
 import "./index.css"; // Include your global styles if needed
 
 ReactDOM.createRoot(document.getElementById("root")).render(
- <BrowserRouter>
+ <BrowserRouter basename="/foodora">
   <App />
  </BrowserRouter>
 );

@@ -28,7 +28,7 @@
 
 ## Links
 
-- **[Click here to visit the site](www.geardhax.github.io/foodora)**
+- **[Click here to visit the site](https://geardhax.github.io/foodora/)**
 - **[Buy Me a Coffee](https://www.buymeacoffee.com/gearhax_yt)**
 
 ## Support the Project
