@@ -75,7 +75,7 @@ const Recipe = () => {
     <img
      onClick={() => handleLike()}
      className="w-8 h-8 mr-5 cursor-pointer invert"
-     src="../src/assets/heart.png"
+     src="./src/assets/heart.png"
      alt=""
     />
    </div>
@@ -87,8 +87,8 @@ const Recipe = () => {
      className="w-10 rounded-lg mx-3"
      src={
       instruction.vegetarian
-       ? "../src/assets/veg.png"
-       : "../src/assets/non-veg.png"
+       ? "./src/assets/veg.png"
+       : "./src/assets/non-veg.png"
      }
      alt={instruction.vegetarian ? "Vegetarian" : "Non-Vegetarian"}
     />
