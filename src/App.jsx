@@ -3,7 +3,7 @@ import {Routes, Route, useLocation} from "react-router-dom";
 import Home from "./components/Home";
 import Search from "./components/Search";
 import Favorite from "./components/Favorite";
-import Feedback from "./components/Feedback";
+// import Feedback from "./components/Feedback";
 import Error from "./components/Error";
 import Sidebar from "./components/Sidebar";
 import Sidebar_m from "./components/Sidebar_m";
