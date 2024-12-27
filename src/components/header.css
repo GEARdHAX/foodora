@@ -1,0 +1,9 @@
+.curved {
+ /* position: absolute; */
+ /* display: flex; */
+ width: 100%;
+ background: #543a14;
+ height: 32vh;
+ border-bottom-left-radius: 50% 10vh;
+ border-bottom-right-radius: 50% 10vh;
+}
