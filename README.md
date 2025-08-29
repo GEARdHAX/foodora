@@ -1,4 +1,4 @@
-# Sidebar App
+# Foodora - Recipe Search App
 
 ## Features
 
